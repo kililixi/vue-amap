@@ -64,7 +64,7 @@
 
     .search-tips {
       position: fixed;
-      top: 100%;
+      max-height: 100%;
       border: 1px solid #dbdbdb;
       background: #FFF;
       overflow: auto;
