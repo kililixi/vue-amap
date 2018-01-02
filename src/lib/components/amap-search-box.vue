@@ -63,7 +63,7 @@
     }
 
     .search-tips {
-      position: absolute;
+      position: fixed;
       top: 100%;
       border: 1px solid #dbdbdb;
       background: #FFF;
